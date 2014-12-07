@@ -169,17 +169,17 @@ Text Label 4950 4950 0    60   ~ 0
 PB14
 Text Label 4950 5050 0    60   ~ 0
 PB15
-Text Label 8000 5700 2    60   ~ 0
-PB12
-Text Label 8000 5800 2    60   ~ 0
-PB13
-Text Label 8000 5900 2    60   ~ 0
-PB14
 Text Label 8000 6000 2    60   ~ 0
+PB12
+Text Label 8000 5900 2    60   ~ 0
+PB13
+Text Label 8000 5800 2    60   ~ 0
+PB14
+Text Label 8000 5700 2    60   ~ 0
 PB15
-Text Label 8000 5500 2    60   ~ 0
+Text Label 8000 5400 2    60   ~ 0
 PB6
-Text Label 8000 5600 2    60   ~ 0
+Text Label 8000 5300 2    60   ~ 0
 PB7
 Text Label 9600 5100 2    60   ~ 0
 PA0
@@ -197,9 +197,9 @@ Text Label 9600 5700 2    60   ~ 0
 PA6
 Text Label 9600 5800 2    60   ~ 0
 PA7
-Text Label 8000 5300 2    60   ~ 0
+Text Label 8000 5600 2    60   ~ 0
 PA9
-Text Label 8000 5400 2    60   ~ 0
+Text Label 8000 5500 2    60   ~ 0
 PA10
 Text Label 2200 6200 2    60   ~ 0
 SWDIO
@@ -436,7 +436,7 @@ U 1 1 548366F4
 P 1750 3950
 F 0 "SW1" H 1900 4060 50  0000 C CNN
 F 1 "SW_PUSH" H 1750 3870 50  0000 C CNN
-F 2 "_div:_PTS525SK15-SMT-Pushbutton" H 1750 3950 60  0000 C CNN
+F 2 "_div:_PTS525SK15-SMT-Pushbutton" H 1750 3950 60  0001 C CNN
 F 3 "~" H 1750 3950 60  0000 C CNN
 	1    1750 3950
 	0    -1   -1   0   
@@ -645,7 +645,7 @@ U 1 1 54836E83
 P 7100 1250
 F 0 "D3" H 7100 1350 40  0000 C CNN
 F 1 "BAT60JFILM" H 7100 1150 40  0000 C CNN
-F 2 "" H 7100 1250 60  0001 C CNN
+F 2 "_std:_SOD-323" H 7100 1250 60  0001 C CNN
 F 3 "~" H 7100 1250 60  0000 C CNN
 	1    7100 1250
 	1    0    0    -1  
@@ -656,7 +656,7 @@ U 1 1 54836E99
 P 7100 1050
 F 0 "D2" H 7100 1150 40  0000 C CNN
 F 1 "BAT60JFILM" H 7100 950 40  0000 C CNN
-F 2 "" H 7100 1050 60  0001 C CNN
+F 2 "_std:_SOD-323" H 7100 1050 60  0001 C CNN
 F 3 "~" H 7100 1050 60  0000 C CNN
 	1    7100 1050
 	1    0    0    -1  
