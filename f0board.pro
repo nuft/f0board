@@ -1,4 +1,4 @@
-update=Son 07 Dez 2014 23:42:57 CET
+update=Die 09 Dez 2014 12:05:05 CET
 version=1
 last_client=kicad
 [cvpcb]
@@ -58,12 +58,12 @@ LibName38=kicad-lib/components/_wireless
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=
+LastNetListRead=f0board.net
 UseCmpFile=1
-PadDrill=0.6
-PadDrillOvalY=0.6
-PadSizeH=1.5
-PadSizeV=1.5
+PadDrill=0
+PadDrillOvalY=0
+PadSizeH=1.6
+PadSizeV=1
 PcbTextSizeV=1.5
 PcbTextSizeH=1.5
 PcbTextThickness=0.3
