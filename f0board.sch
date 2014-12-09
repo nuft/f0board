@@ -875,7 +875,7 @@ Wire Wire Line
 	1350 1300 1450 1300
 Wire Wire Line
 	1450 1300 1450 1350
-Text Label 4950 3950 0    60   ~ 0
+Text Label 4950 3750 0    60   ~ 0
 LED
 Text Label 2900 1850 2    60   ~ 0
 RST
